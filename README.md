@@ -12,7 +12,7 @@ This Selenium project allows you to automate the Google Search Process, interact
 ## Features
 
 - **Automated Google Search**:
-- 1. Open https://www.google.com and search for any keyword
+1. Open https://www.google.com and search for any keyword
 2. Remove the keyword and search for a new one
 3. Assert that a number of results exist on UI
 4. Scroll down and go to the next page ( skipped go to next page )
